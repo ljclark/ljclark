@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋
 
-<!--
-**ljclark/ljclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey. I'm Lewis - a front end developer based in North Yorkshire, UK. 
 
-Here are some ideas to get you started:
+I'm a self taught front end developer with a background in technical marketing and integrated solutions, working across a number of leading agencies throughout the UK and Canada. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Roles 👨‍💻
+
+- Co-founder of [Northward](https://wearenorthward.studio)
+- Lead Developer at [Stream Commerce](https://streamcommerce.com)
+
+## Stack 🤓
+
+My tools of choice are currently: 
+```html
+Shopify, Craft CMS, Alpine.js, Digital Ocean, Ploi and Valet 
+```
+
+## Experience 🤘
+
+I've worked with blue chip enterprises all the way through to local, single person businesses across a variety of different industries. I love the variety that these offer and finding solutions that offer both a functional solution to both merchants and customers, backed by a solid design and user experience. 
+
